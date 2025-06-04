@@ -65,4 +65,4 @@ jobs:
           app-name: 'SRCPORTAL'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F1E054395DA47FC95F24C0AEA196A9F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A13E5D630D3A4A84952E6566493F2088 }}
